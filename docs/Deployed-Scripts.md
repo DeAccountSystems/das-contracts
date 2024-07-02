@@ -24,7 +24,7 @@
     "code_hash": "0xcfba73b58b6f30e70caed8a999748781b164ef9a1e218424a6fb55ebf641cb33",
     "hash_type": "type",
     "outpoint": {
-        "tx_hash": "0xeda235b56aa422c497b9b9bcfde7af289376e7fe12449ade99176609005994ba",
+        "tx_hash": "0x18dda0f02036305b423b85cce276a40417faed044b2ee9220284215f38734daa",
         "index": 0 
     }
 }

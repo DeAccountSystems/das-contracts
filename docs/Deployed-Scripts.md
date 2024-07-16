@@ -25,7 +25,7 @@
     "hash_type": "type",
     "outpoint": {
         "tx_hash": "0x18dda0f02036305b423b85cce276a40417faed044b2ee9220284215f38734daa",
-        "index": 0 
+        "index": 0
     }
 }
 
@@ -53,7 +53,7 @@
     "code_hash": "0x0b1f412fbae26853ff7d082d422c2bdd9e2ff94ee8aaec11240a5b34cc6e890f",
     "hash_type": "type",
     "outpoint": {
-        "tx_hash": "0xeefbe84b32b4f40cc6e77c6d4a8dc4840ffa7fd8ceb74cbbcbcb2f5d679fd1f1",
+        "tx_hash": "0x1bda44bf86d240b739e035ade4eae2d8a53085210c6dab96b49ffeacb8c1174e",
         "index": 0
     }
 }

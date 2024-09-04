@@ -24,7 +24,7 @@
     "code_hash": "0xcfba73b58b6f30e70caed8a999748781b164ef9a1e218424a6fb55ebf641cb33",
     "hash_type": "type",
     "outpoint": {
-        "tx_hash": "0xea4ae2d84ccae6fd3c4a55e348a5400a6166e33114bcafbc758e012ac8bd3c80",
+        "tx_hash": "0xc4e296d8dc96636603d404cc5762cc865baff234e2e0adf07b4de6ca059312ba",
         "index": 0
     }
 }
@@ -53,7 +53,7 @@
     "code_hash": "0x0b1f412fbae26853ff7d082d422c2bdd9e2ff94ee8aaec11240a5b34cc6e890f",
     "hash_type": "type",
     "outpoint": {
-        "tx_hash": "0x1bda44bf86d240b739e035ade4eae2d8a53085210c6dab96b49ffeacb8c1174e",
+        "tx_hash": "0x306961e0eb04ed972c60cb89a0aed1b0ef065d96d2fc0000c62db5275e32dc6f",
         "index": 0
     }
 }
